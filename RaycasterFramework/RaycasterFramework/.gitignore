@@ -1,0 +1,7 @@
+#ignore VS2019 generated folders
+.vs/
+bin/
+obj/
+
+#ignore VS2019 generated files
+*.vcsxproj.user
